@@ -1,0 +1,2 @@
+# BirthdayGreatingApp
+In this project I learn how to create Activity in Android App. As the Layout Design of App is present in XML file. I learn how to create Toast Notification for User and handle Button Click activity as well. Basically App takes Name of Birthday wishing person and creates a Greating for that Person as well.As all the work is done in the main class which extends the  APPCOMPACT ACTIVITY class where all the Layout and functioning Present. 
